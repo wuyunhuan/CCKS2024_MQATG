@@ -1,11 +1,11 @@
 # CCKS2024_MQATG
 CCKS2024_基于大模型的军事装备领域问答生成技术评测
-任务定义
+# 任务定义
 根据给定的军事装备领域文章，生成10个问题答案对，其包含2道填空题、3道单选题、3道判断题以及2道复杂问答题。
 ![image](https://github.com/user-attachments/assets/9cc1f4dd-166e-4572-b075-81196f065959)
 ![image](https://github.com/user-attachments/assets/2a17f1bb-66c1-4395-a37e-1a5c5582a5aa)
 
-评价指标
+#评价指标
 
 从五个维度来评估生成的问答与答案的质量，每个维度的评分通过使用给定的Prompt来调用DeepSeek-V2-0628大模型得出。
 
