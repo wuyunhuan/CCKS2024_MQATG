@@ -24,15 +24,16 @@ CCKS2024_基于大模型的军事装备领域问答生成技术评测
 # 解决方案概述
 ![image](https://github.com/user-attachments/assets/69a3976f-4439-44cf-8fd0-b4d60fe2142e)
 
-### 
+### 开源模型选择结果
 ![image](https://github.com/user-attachments/assets/21a636b5-ba73-419e-92de-3aba90cd3a34)
 
-### 
+### 填空题Prompt设计
 ![image](https://github.com/user-attachments/assets/8035eb84-ffa9-4e9b-ad2b-ce5a3660f7d4)
 
-###
+### 复杂问答题Prompt设计
 ![image](https://github.com/user-attachments/assets/d64e6075-5246-4043-8453-80db838ef11b)
 
-###
+### 生成框架
 
 ![image](https://github.com/user-attachments/assets/b7c49f7f-6932-4967-b8aa-b5155774249c)
+
