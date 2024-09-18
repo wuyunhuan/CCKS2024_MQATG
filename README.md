@@ -37,3 +37,5 @@ CCKS2024_基于大模型的军事装备领域问答生成技术评测
 
 ![image](https://github.com/user-attachments/assets/b7c49f7f-6932-4967-b8aa-b5155774249c)
 
+# 比赛结果
+![image](https://github.com/user-attachments/assets/8cde9201-c32c-424b-87c4-aa450d0c9d2a)
