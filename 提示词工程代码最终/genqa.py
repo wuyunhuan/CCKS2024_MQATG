@@ -6,11 +6,11 @@ import ast
 import dashscope
 
 # 阿里云api key
-dashscope.api_key="sk-b2012aa4ccd74b50b8ace1d9f3338f63"
+dashscope.api_key=""
 # deepseek  api key
 client = OpenAI(
   base_url = "https://api.deepseek.com/v1",
-  api_key = "sk-d2bc92984d694f348ced436f12803320"
+  api_key = ""
 )
 
 # 生成10个填空题
